@@ -8,9 +8,15 @@
     "type": "git",
     "url": "https://github.com/hariprohandler/webscrapper"
   },
+  "scripts": {
+    "test": "mocha --recursive --exit"
+  },
   "dependencies": {
+    "cheerio": "latest",
     "express": "latest",
+    "mock-req": "^0.2.0",
+    "mock-res": "^0.5.0",
     "request": "latest",
-    "cheerio": "latest"
+    "sinon": "^9.2.4"
   }
 }
