@@ -1,4 +1,4 @@
-node-web-scraper
+WebScrapper
 ================
 
 Simple web scraper to get meta tags ang OG tags
