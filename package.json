@@ -1,0 +1,16 @@
+{
+  "name": "webscrapper",
+  "version": "0.0.1",
+  "description": "Wrokshop Scrap URL",
+  "main": "server.js",
+  "author": "Hari",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hariprohandler/webscrapper"
+  },
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
